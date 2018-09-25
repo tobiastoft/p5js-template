@@ -1,4 +1,18 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter-UI.var.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 body {
   padding: 0px;
   margin: 0px;
+}
+
+.letter {
+    font-family: 'Inter';
+    color: #000;
+    font-size: 24px;
 }
